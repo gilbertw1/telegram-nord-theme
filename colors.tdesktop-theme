@@ -268,7 +268,7 @@ historyPeer2NameFg: #A3BE8C;                    // Green
 historyPeer2UserpicBg: #B48EAD;                   // Magenta
 historyPeer3NameFg: #81A1C1;                    // Blue
 historyPeer3UserpicBg: #EBCB8B;                   // Orange
-historyPeer4NameFg: #B48EAD;                    // Megenta
+historyPeer4NameFg: #B48EAD;                    // Magenta
 historyPeer4UserpicBg: #8FBCBB;                   // Green
 historyPeer5NameFg: #8FBCBB;                    // Light Green
 historyPeer5UserpicBg: #BF616A;                   // Red
